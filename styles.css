@@ -1,6 +1,7 @@
 
  body {
     height: 500vh;
+    margin: 0%;
 }
 nav.menu-lateral{
     width: 90px;
@@ -8,7 +9,6 @@ nav.menu-lateral{
     background-color:#202020 ;
 
     box-shadow: 5px 0 0 #5c0377  ;
-    margin-left: 10px;
 
     position: fixed;
     top: o;
